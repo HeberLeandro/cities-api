@@ -20,6 +20,11 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
+jar {
+    baseName = 'cities-api'
+    version = '0.0.1-SNAPSHOT'
+}
+
 test {
 	useJUnitPlatform()
 }
