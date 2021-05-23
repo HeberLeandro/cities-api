@@ -1,7 +1,6 @@
 # Cities API
 
-Projeto para finalizar o bootcamp da Everis na plataforma da [Digital Innovation one](https://web.digitalinnovation.one/). O objetivo é construir uma API que calcula a distancias
-de duas cidades.
+Projeto para finalizar o bootcamp da Everis na plataforma da [Digital Innovation one](https://web.digitalinnovation.one/). O objetivo é construir uma API que calcula a distancias entre duas cidades.
 <br>Endereço da aplicação no heroku: [cities-api](https://desolate-savannah-59631.herokuapp.com/)
 
 
